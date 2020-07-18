@@ -1,7 +1,7 @@
 {
     "expo": {
-        "name": "RN Guide",
-        "slug": "rn-complete-guide",
+        "name": "The Shop App",
+        "slug": "the-shop-app",
         "privacy": "public",
         "sdkVersion": "36.0.0",
         "platforms": ["ios", "android", "web"],
